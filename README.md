@@ -13,32 +13,48 @@
 ✨ Open-source enthusiast – always contributing and learning
 
 🛠 Tech Stack
-🌐 Frontend
-React
-Next.js
-Redux
-Tailwind CSS
-Material-UI
+### 💻 Tech Stack
 
-⚙ Backend
-Django
-Django REST
-Node.js
-Express.js
+#### 🖥 Frontend
 
-🗃 Databases
-MongoDB
-PostgreSQL
-Firebase
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+</p>
 
-🖥 Desktop Development
-Electron.js
+#### ⚙ Backend & Database
 
-🛠 DevOps & Tools
-Docker
-AWS
-Git
-Postman
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
+</p>
+
+#### 🔧 Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=bitbucket" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+</p>
+
+#### 🔌 API Integration
+
+<p>
+  <img src="https://img.shields.io/badge/RESTful%20APIs-%23007ACC?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/Third%20Party%20Services-%236DB33F?style=for-the-badge" />
+</p>
+
+---
+
 
 📊 GitHub Stats
 <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shery313&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shery313&layout=compact&theme=radical&langs_count=6" alt="Top Languages" /> </p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shery313&theme=radical" alt="GitHub Streak" /> </p>
