@@ -11,6 +11,7 @@
 🔥 Passionate about optimized performance and scalable architectures
 
 ✨ Open-source enthusiast – always contributing and learning
+---
 
 🛠 Tech Stack
 ### 💻 Tech Stack
