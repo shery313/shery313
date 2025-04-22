@@ -41,19 +41,18 @@ Git
 Postman
 
 📊 GitHub Stats
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheryarazhar&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheryarazhar&layout=compact&theme=radical&langs_count=6" alt="Top Languages" /> </p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheryarazhar&theme=radical" alt="GitHub Streak" /> </p>
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shery313&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shery313&layout=compact&theme=radical&langs_count=6" alt="Top Languages" /> </p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shery313&theme=radical" alt="GitHub Streak" /> </p>
 🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sheryarazhar&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shery313&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" /> </p>
 📫 Let's Connect
-🔗 Portfolio: sheryarazhar.dev (Coming Soon!)
+🔗 Portfolio: code-with-sherry.netlify.app
 
 💼 LinkedIn: Sheryar Azhar
 
-📧 Email: sheryarazhar.dev@gmail.com
+📧 Email: sheryarsatti6@gmail.com
 
-🐦 Twitter: @sheryar_dev
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sheryarazhar&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shery313&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" /> </p>
 Let's build something amazing together! 🚀
 
 (Open to collaborations, freelance work, and tech discussions!)
